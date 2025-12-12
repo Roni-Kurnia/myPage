@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title><?= $data['judul'] ?></title>
     <link href="css/bootstrap.css" rel="stylesheet">
     <style>
       html::-webkit-scrollbar {
@@ -20,7 +20,7 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
+    <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">Home</a>
