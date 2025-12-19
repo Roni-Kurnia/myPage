@@ -12,13 +12,13 @@
                     Siap membantu mewujudkan ide Anda menjadi website yang fungsional dan menarik.
                 </p>
                 <div class="d-flex gap-2">
-                    <a href="https://github.com/Roni-Kurnia" class="btn btn-outline-info btn-sm" style="width: 35px; height: 35px; display: flex; align-items: center; justify-content: center;">
-                        <i class="bi bi-github"><img src="<?= BASEURL; ?>/asset/icon/github.png" width="33"></i>
+                    <a href="https://github.com/Roni-Kurnia" target="_blank" class="social-media-link" style="width: 35px; height: 35px; display: flex; align-items: center; justify-content: center;">
+                        <i class="bi bi-github"><img src="<?= BASEURL; ?>/asset/icon/github-t.png" width="33"></i>
                     </a>
-                    <a href="#" class="btn btn-outline-info btn-sm" style="width: 35px; height: 35px; display: flex; align-items: center; justify-content: center;">
+                    <a href="https://www.linkedin.com/in/roni-kurnia-a19630398/" target="_blank" class="social-media-link" style="width: 35px; height: 35px; display: flex; align-items: center; justify-content: center;">
                         <i class="bi bi-linkedin"><img src="<?= BASEURL; ?>/asset/icon/linkedin.png" width="33"></i>
                     </a>
-                    <a href="#" class="btn btn-outline-info btn-sm" style="width: 35px; height: 35px; display: flex; align-items: center; justify-content: center;">
+                    <a href="https://www.instagram.com/1.roni_kurnia/" target="_blank" class="social-media-link" style="width: 35px; height: 35px; display: flex; align-items: center; justify-content: center;">
                         <i class="bi bi-instagram"><img src="<?= BASEURL; ?>/asset/icon/instagram.png" width="33"></i>
                     </a>
                 </div>
@@ -96,6 +96,25 @@
     </div>
 
     <style>
+        .social-media-link {
+            width: 35px;
+            height: 35px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #858484ff; 
+            border: 2px solid #17a2b8;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+        
+        .social-media-link:hover {
+            background-color: #17a2b8; 
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(173, 216, 230, 0.4); 
+        }
+
         .hover-link {
             transition: all 0.3s ease;
         }

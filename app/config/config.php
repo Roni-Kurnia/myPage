@@ -1,3 +1,3 @@
 <?php
 
-define('BASEURL', 'http://localhost/myPage/public');
+define('BASEURL', 'http://RoniKurnia.vercel.app/myPage/public');

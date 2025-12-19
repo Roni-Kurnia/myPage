@@ -1,0 +1,44 @@
+{
+    "projects": [
+        
+        {
+        "id": 1,
+        "title": "E-Commerce Website",
+        "type": "Portfolio",
+        "description": "Website toko online dengan fitur keranjang belanja, pembayaran, dan manajemen produk menggunakan PHP native dan MySQL.",
+        "image": "laravel.png",
+        "visit_url": "https://example.com/ecommerce",
+        "code_url": "https://github.com/yourusername/ecommerce"
+        },
+
+        {
+        "id": 2,
+        "title": "Blog Management System",
+        "type": "Portfolio",
+        "description": "Sistem manajemen blog dengan fitur CRUD artikel, kategori, dan komentar. Menggunakan MVC pattern.",
+        "image": "laravel.png",
+        "visit_url": "https://example.com/blog",
+        "code_url": "https://github.com/yourusername/blog"
+        },
+
+        {
+        "id": 3,
+        "title": "Task Manager App",
+        "type": "Portfolio",
+        "description": "Aplikasi manajemen tugas dengan fitur prioritas, deadline, dan status tracking. Built with PHP MVC.",
+        "image": "laravel.png",
+        "visit_url": "https://example.com/taskmanager",
+        "code_url": "https://github.com/yourusername/taskmanager"
+        },
+
+        {
+        "id": 4,
+        "title": "Student Portal",
+        "type": "Portfolio",
+        "description": "Portal mahasiswa untuk melihat jadwal, nilai, dan informasi akademik. Menggunakan PHP dan Bootstrap.",
+        "image": "laravel.png",
+        "visit_url": "https://example.com/portal",
+        "code_url": "https://github.com/yourusername/portal"
+        }
+    ] 
+}

@@ -42,43 +42,6 @@
         </div>
     </section>
 
-    <!-- Skills Section -->
-    <section class="py-5" style="background: linear-gradient(180deg, #1a1a1a 0%, #2a2a2a 100%);">
-        <div class="container">
-            <h2 class="text-center text-white mb-5">Skills & Tools</h2>
-            <div class="row g-4">
-                <div class="col-md-6 col-sm-6">
-                    <div class="text-center p-4 rounded-3 h-100" style="background: rgba(255,255,255,0.05); transition: all 0.3s;">
-                        <div class="fs-1 mb-3 text-info">💻</div>
-                        <h5 class="text-white">Frontend</h5>
-                        <p class="text-white-50 small">HTML, CSS, JavaScript, Bootstrap</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6">
-                    <div class="text-center p-4 rounded-3 h-100" style="background: rgba(255,255,255,0.05); transition: all 0.3s;">
-                        <div class="fs-1 mb-3 text-info">⚙️</div>
-                        <h5 class="text-white">Backend</h5>
-                        <p class="text-white-50 small text-left">PHP, MySQL, Laravel</p>
-                    </div>
-                </div>
-                <!-- <div class="col-md-3 col-sm-6">
-                    <div class="text-center p-4 rounded-3 h-100" style="background: rgba(255,255,255,0.05); transition: all 0.3s;">
-                        <div class="fs-1 mb-3 text-info">🎨</div>
-                        <h5 class="text-white">Design</h5>
-                        <p class="text-white-50 small">UI/UX, Responsive Design</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="text-center p-4 rounded-3 h-100" style="background: rgba(255,255,255,0.05); transition: all 0.3s;">
-                        <div class="fs-1 mb-3 text-info">🚀</div>
-                        <h5 class="text-white">Tools</h5>
-                        <p class="text-white-50 small">Git, VS Code, Figma</p>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-    </section>
-
     <style>
         .min-vh-75 {
             min-height: 75vh;
